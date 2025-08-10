@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  text-align: center;
+  background: #f0f0f0;
+}
+
+#advice {
+  font-size: 1.5rem;
+  margin: 1.5rem 0;
+  color: #333;
+  min-height: 80px;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
